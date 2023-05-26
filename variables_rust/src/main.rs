@@ -95,3 +95,19 @@ fn the_character_type(){
     let heat_eyed_cat = '😻';
     println!("heat_eyed_cat: {heat_eyed_cat}");
 }
+
+mod food{
+    struct Cake;
+    struct Smoothie;
+    struct Pizza;
+}
+
+fn asymptotic_runtime_complexity(){
+    let my_vec  = vec![5,6,10,33,55,77];
+    for i in my_vec.iter(){
+        if i == 5{
+            break;
+        }
+        println!("{}", i);
+    }
+}
