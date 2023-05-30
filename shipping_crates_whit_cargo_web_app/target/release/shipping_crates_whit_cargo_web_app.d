@@ -1,0 +1,1 @@
+C:\Users\oumar\OneDrive\Bureau\dev\omar\#30dayofrust\shipping_crates_whit_cargo_web_app\target\release\shipping_crates_whit_cargo_web_app.exe: C:\Users\oumar\OneDrive\Bureau\dev\omar\#30dayofrust\shipping_crates_whit_cargo_web_app\src\main.rs

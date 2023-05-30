@@ -1,0 +1,11 @@
+C:\Users\oumar\OneDrive\Bureau\dev\omar\#30dayofrust\shipping_crates_whit_cargo_web_app\target\release\deps\ppv_lite86-da318915299431f8.rmeta: C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs
+
+C:\Users\oumar\OneDrive\Bureau\dev\omar\#30dayofrust\shipping_crates_whit_cargo_web_app\target\release\deps\libppv_lite86-da318915299431f8.rlib: C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs
+
+C:\Users\oumar\OneDrive\Bureau\dev\omar\#30dayofrust\shipping_crates_whit_cargo_web_app\target\release\deps\ppv_lite86-da318915299431f8.d: C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs
+
+C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs:
+C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs:
+C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs:
+C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs:
+C:\Users\oumar\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs:
