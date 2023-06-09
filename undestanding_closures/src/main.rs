@@ -6,7 +6,8 @@ fn main() {
     };
 
     let outcome = add_doubles(Box::new(closure), 2,3);
-    println!("{}", outcome)
+    println!("{}", outcome);
+    basic_closures();
 
 }
 
@@ -21,4 +22,12 @@ fn add_doubles(closure: Box<dyn Fn(i32) -> i32>,
                 one: i32, two:i32) -> i32{
     return closure(one) + closure(two)
     
+}
+
+fn basic_closures(){
+    let launch_closur= |string_input|{
+        println!("{}", string_input);
+    
+    };
+    launch_closur("test");
 }
